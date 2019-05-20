@@ -1,4 +1,5 @@
 # KynG: Keyword &amp; Generator
+Text generator for Korean
 
 ## Clone
 via ssh
