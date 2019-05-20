@@ -12,7 +12,7 @@ $ git clone https://github.com/HenryLee97/KynG.git
 
 ## Requirement
 Python 3.6 or above  
-Install [PyTorch]{https://torch.org}
+Install [PyTorch](https://pytorch.org)
 ```
 $ pip install requirement.txt
 ```
