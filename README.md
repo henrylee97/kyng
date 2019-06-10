@@ -1,5 +1,5 @@
 # KynG: Keyword &amp; Generator
-Text generator with Keyword
+Text generator with keyword
 
 ## Clone
 via ssh
