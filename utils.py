@@ -36,7 +36,7 @@ class Trainset(Dataset):
 
   def __getitem__(self, idx):
     keyword = self.data[idx][0]
-    text = self.data[idx][0]
+    text = self.data[idx][1]
 
     # keyword embedding
     keyword = torch.tensor(self.embedding[keyword])
