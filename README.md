@@ -4,11 +4,11 @@ Text generator with keyword
 ## Clone
 via ssh
 ```
-$ git clone git@github.com:HenryLee97/KynG.git
+$ git clone git@github.com:HenryLee97/kyng.git
 ```
 via https
 ```
-$ git clone https://github.com/HenryLee97/KynG.git
+$ git clone https://github.com/HenryLee97/kyng.git
 ```
 
 ## Requirement
